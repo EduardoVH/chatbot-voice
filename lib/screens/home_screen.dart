@@ -72,7 +72,7 @@ class HomeScreen extends StatelessWidget {
                   IconButton(
                     icon: const Icon(Icons.link, color: Colors.blue),
                     onPressed: () =>
-                        _launchURL('https://github.com/EduardoVH'),
+                        _launchURL('https://github.com/EduardoVH/chatbot-voice'),
                   ),
                 ],
               ),
